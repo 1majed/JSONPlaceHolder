@@ -1,3 +1,6 @@
+Part 1:
+-------
+
 The JASON Place Holder application has 6 endpoints.
 
 Overview
@@ -61,7 +64,9 @@ To run these tests, use:
 
 Each of the tests also included the scenario to create duplicate records. 
 
-    I also attached the document for the performance test in this folder for your review.
+PART 2:
+-------
+I attached the document for the performance test in this folder for your review.
 
 
     Thank you for you consideration!
