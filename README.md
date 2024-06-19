@@ -68,5 +68,7 @@ PART 2:
 -------
 I attached the document for the performance test in this folder for your review.
 
+Thank you for you consideration!
 
-    Thank you for you consideration!
+Majed Alssaidi
+majed1@icloud.com
