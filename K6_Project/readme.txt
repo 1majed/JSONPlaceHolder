@@ -65,3 +65,6 @@ Each of the tests also included the scenario to create duplicate records.
 
 
     Thank you for you consideration!
+
+Majed Alssaidi
+majed1@icloud.com
