@@ -1,0 +1,168 @@
+{
+    "invalid_GET_data": [
+        {
+            "field": "id",
+            "value": 0
+        },
+        {
+            "field": "id",
+            "value": -1
+        },
+        {
+            "field": "id",
+            "value": 100000000
+        },
+        {
+            "field": "id",
+            "value": 1.5
+        },
+        {
+            "field": "id",
+            "value": null
+        }
+    ],
+    "invalid_POST_data": [
+        {
+            "field": "name",
+            "value": "Lorem ipsum"
+        },
+        {
+            "field": "name",
+            "value": 1
+        },
+        {
+            "field": "name",
+            "value": "`~!@#$%^&*()-=_+,./<>?;'[]\\{{|}"
+        },
+        {
+            "field": "name",
+            "value": null
+        },
+        {
+            "field": "username",
+            "value": "Lorem ipsum"
+        },
+        {
+            "field": "username",
+            "value": 1
+        },
+        {
+            "field": "username",
+            "value": "`~!@#$%^&*()-=_+,./<>?;'[]\\{{|}"
+        },
+        {
+            "field": "username",
+            "value": null
+        },
+        {
+            "field": "phone",
+            "value": "Lorem ipsum"
+        },
+        {
+            "field": "phone",
+            "value": 1
+        },
+        {
+            "field": "phone",
+            "value": "`~!@#$%^&*()-=_+,./<>?;'[]\\{{|}"
+        },
+        {
+            "field": "phone",
+            "value": null
+        },
+        {
+            "field": "website",
+            "value": "Lorem ipsum"
+        },
+        {
+            "field": "website",
+            "value": 1
+        },
+        {
+            "field": "website",
+            "value": "`~!@#$%^&*()-=_+,./<>?;'[]\\{{|}"
+        },
+        {
+            "field": "website",
+            "value": null
+        },
+        {
+            "field": "address",
+            "value": {
+                "street": null,
+                "suite": null,
+                "city": null,
+                "zipcode": null,
+                "geo": {
+                    "lat": null,
+                    "lng": null
+                }
+            }
+        },
+        {
+            "field": "address",
+            "value": {
+                "street": 1,
+                "suite": 2,
+                "city": 3,
+                "zipcode": 42,
+                "geo": {
+                    "lat": 1.1,
+                    "lng": 2.1
+                }
+            }
+        },
+        {
+            "field": "company",
+            "value": {
+                "name": null,
+                "catchPhrase": 1,
+                "bs": "`~!@#$%^&*()-=_+,./<>?;'[]\\{{|}"
+            }
+        },
+        {
+            "field": "company",
+            "value": {
+                "name": null,
+                "catchPhrase": null,
+                "bs": null
+            }
+        }
+    
+
+],
+"invalid_PUT_data": [
+    {
+        "field": "name",
+        "value": "Lorem ipsum"
+    },
+    {
+        "field": "name",
+        "value": 1
+    },
+    {
+        "field": "name",
+        "value": "`~!@#$%^&*()-=_+,./<>?;'[]\\{{|}"
+    },
+    {
+        "field": "name",
+        "value": null
+    },
+    {
+        "field": "username",
+        "value": "Lorem ipsum"
+    },
+    {
+        "field": "username",
+        "value": 1
+    },
+    {
+        "field": "username",
+        "value": "`~!@#$%^&*()-=_+,./<>?;'[]\\{{|}"
+    },
+    {
+        "field": "username",
+        "value": null
+    }
+]
+}
